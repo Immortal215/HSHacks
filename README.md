@@ -10,7 +10,7 @@ Key details:
 - In-person
 - For grades 9-12
 - Located at **John Hersey High School, Arlington Heights Illinois**
-- Event hosted on **April 12, 2025**
+- Event hosted on **TBD**
   
 **To run this project**
 
