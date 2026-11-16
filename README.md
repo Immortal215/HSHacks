@@ -12,8 +12,3 @@ Key details:
 - Located at **John Hersey High School, Arlington Heights Illinois**
 - Event hosted on **TBD**
   
-**To run this project**
-
-- On the main page (https://github.com/AAlchi/HSHacks), click on **code** and **copy the given link**
-- In your terminal, create a folder and run a **git clone <the link you copied>**
-- **cd** into the **HSHacks folder** and run **npm install** and then **npm run dev**
